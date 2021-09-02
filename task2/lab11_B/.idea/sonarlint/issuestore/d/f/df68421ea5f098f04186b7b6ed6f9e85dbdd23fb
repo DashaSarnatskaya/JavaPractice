@@ -1,0 +1,38 @@
+
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8óÔ¡¾º/
+M
+java:S1128
+"0Remove this unused import 'java.util.SortedMap'.(’ŸÕ8óÔ¡¾º/
+s
+java:S1450"VRemove the "parking" field and declare it as a local variable in the relevant methods.(µ¡õÜ8óÔ¡¾º/
+u
+java:S1450"SRemove the "test" field and declare it as a local variable in the relevant methods.(üüÈøÿÿÿÿ8óÔ¡¾º/
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ú¡­,8óÔ¡¾º/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºÕİ„üÿÿÿÿ8óÔ¡¾º/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶±«œ8óÔ¡¾º/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æÌÆµ8óÔ¡¾º/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö½—Œ8óÔ¡¾º/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚µ¼úÿÿÿÿ8óÔ¡¾º/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶¸Â»8óÔ¡¾º/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†Ş•Úùÿÿÿÿ8óÔ¡¾º/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ïÚâÀşÿÿÿÿ8óÔ¡¾º/
+>	java:S131(""Add a default case to this switch.(‰âŞÒ8óÔ¡¾º/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ÈåÍıÿÿÿÿ8óÔ¡¾º/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Á‘‚úûÿÿÿÿ8óÔ¡¾º/
+K
+java:S19400")Use the opposite operator ("!=") instead.(È•½ûÿÿÿÿ8óÔ¡¾º/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Ï½Šÿúÿÿÿÿ8óÔ¡¾º/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(İÛıåÿÿÿÿÿ8óÔ¡¾º/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(€Ã“Õ8óÔ¡¾º/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(İ âÁşÿÿÿÿ8óÔ¡¾º/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(£ô¡¾8óÔ¡¾º/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(¥Öª·úÿÿÿÿ8óÔ¡¾º/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(‡ãŠäşÿÿÿÿ8óÔ¡¾º/
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(€Ã“Õ8óÔ¡¾º/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(İ âÁşÿÿÿÿ8óÔ¡¾º/
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(£ô¡¾8óÔ¡¾º/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(¥Öª·úÿÿÿÿ8óÔ¡¾º/
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(›¬ş¼8óÔ¡¾º/
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(İÛıåÿÿÿÿÿ8óÔ¡¾º/

@@ -1,0 +1,8 @@
+
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ğ¾Âòúÿÿÿÿ8å‡¥¾º/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¾³Ó8å‡¥¾º/
+V
+java:S1128"4Remove this unused import 'com.sun.jdi.IntegerType'.(Ğ¾Âòúÿÿÿÿ8å‡¥¾º/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ëÈé8å‡¥¾º/

@@ -1,0 +1,13 @@
+
+š
+java:S1319"xThe type of the "cashboxQueues" object should be an interface such as "List" rather than the implementation "ArrayList".(±Şö„ıÿÿÿÿ8ñ—ú¾º/
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ø€®¯8ñ—ú¾º/
+Ÿ
+java:S13193"}The type of the "lastPeopleInQueues" object should be an interface such as "List" rather than the implementation "ArrayList".(Û’µ»øÿÿÿÿ8ñ—ú¾º/
+’
+java:S1319G"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(õ±Ú™ıÿÿÿÿ8ñ—ú¾º/
+—
+java:S1319M"uThe type of the "lastPeople" object should be an interface such as "List" rather than the implementation "ArrayList".(ÏĞÆşùÿÿÿÿ8ñ—ú¾º/
+c
+java:S21428"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ñ—ú¾º/
